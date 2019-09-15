@@ -6,7 +6,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import io.hamed.spacenavigationview.CustomView.CurvedBottomNavigationView;
+/**
+ * *
+ * *
+ * *
+ * Created by Hamed Taherpour on 9/15/2019.
+ * *
+ * *
+ * *
+ */
 
 public class MainActivity extends AppCompatActivity {
 

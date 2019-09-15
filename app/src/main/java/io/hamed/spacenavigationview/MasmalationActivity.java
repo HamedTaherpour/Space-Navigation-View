@@ -4,6 +4,16 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * *
+ * *
+ * *
+ * Created by Hamed Taherpour on 9/15/2019.
+ * *
+ * *
+ * *
+ */
+
 public class MasmalationActivity extends AppCompatActivity {
 
     @Override
